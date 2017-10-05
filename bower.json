@@ -6,7 +6,7 @@
     "agustinplaza <apa@googling.barcelona>"
   ],
   "description": "AWS CryptoJS",
-  "main": "['rollups/sha256.js', 'rollups/hmac-sha256.js']",
+  "main": "**/*.js",
   "ignore":"",
   "keywords": [
     "crypto"
